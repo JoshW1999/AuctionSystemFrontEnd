@@ -1,0 +1,2 @@
+item1               admin           user1           001 007.00
+END

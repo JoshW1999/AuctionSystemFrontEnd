@@ -1,0 +1,13 @@
+user4
+advertise
+item8
+15
+15
+logout
+user2
+bid
+item4
+admin
+12
+logout
+exit

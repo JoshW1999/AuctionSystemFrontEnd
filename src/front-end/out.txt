@@ -1,0 +1,23 @@
+[DONE] Read User Account File
+
+Welcome to auction site!
+Enter username: [DONE] Read Available Items File
+
+Enter command: 
+Enter new username: 
+User Types:
+	AA: Admin 
+	FS: Full-standard 
+	BS: Buy-standard 
+	SS: Sell-standard
+
+Enter user type: 
+Enter credit value: 
+[DONE] User created
+
+Enter command: 01 new_user_test   SS 000001.00
+Successfully logged out
+../../resources/daily_transactions/dt1585766272.txt
+[DONE] Write Daily Transaction File
+Enter username: 
+Good bye!

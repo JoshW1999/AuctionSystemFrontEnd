@@ -1,0 +1,15 @@
+admin
+create
+user2
+FS
+1000.30
+advertise
+item3
+5
+3
+advertise
+item4
+3
+2
+logout
+exit

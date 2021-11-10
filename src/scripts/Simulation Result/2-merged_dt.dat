@@ -1,0 +1,9 @@
+01 user4           SS 000000.00
+01 user5           BS 001000.00
+00 admin           AA 005006.45
+04 item6               admin           user3           015.00
+04 item3               admin           user3           010.00
+04 item4               admin           user3           010.00
+00 user3           FS 001000.30
+04 item3               admin           user2           015.00
+00 user2           FS 001000.30

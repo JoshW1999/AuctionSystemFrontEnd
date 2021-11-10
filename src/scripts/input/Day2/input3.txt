@@ -1,0 +1,7 @@
+user2
+bid
+item3
+admin
+15
+logout
+exit

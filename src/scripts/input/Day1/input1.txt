@@ -1,0 +1,7 @@
+admin
+advertise
+item2
+3
+1
+logout
+exit

@@ -1,0 +1,16 @@
+user3
+bid
+item6
+admin
+15.00
+bid
+item3
+admin
+10.00
+bid
+item4
+admin
+10.00
+logout
+exit
+

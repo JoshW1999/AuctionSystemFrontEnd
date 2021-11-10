@@ -1,0 +1,7 @@
+admin
+create
+new_user_test
+SS
+1
+logout
+exit

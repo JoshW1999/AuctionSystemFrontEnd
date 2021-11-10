@@ -1,0 +1,11 @@
+admin
+create
+user4
+SS
+0.00
+create
+user5
+BS
+1000.00
+logout
+exit
